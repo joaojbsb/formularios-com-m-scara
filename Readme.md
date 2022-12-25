@@ -1,11 +1,11 @@
-# Aplicativo GYN: para gerenciar atividades físicas em academias
+
 
 ### Tecnologias Utilizadas
 
 <ol>
     <li>#### React Native</li>
     <li>#### Native Base</li>
-    <li>#### React Navigation</li>
+    <li>### react-native-masked-text</li>
 </ol>
 
 <hr>
